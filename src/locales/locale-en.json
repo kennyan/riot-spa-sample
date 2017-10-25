@@ -1,0 +1,10 @@
+{
+  "en": {
+    "#": "##### global static #####",
+    "password_require_label": "Enter password",
+    "password_placeholder": "Password",
+    "login_btn_label": "OK",
+    "#": "##### auth error #####",
+    "password_invalid": "<p>Password is incorrect.</p>"
+  }
+}

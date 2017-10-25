@@ -1,0 +1,10 @@
+{
+  "ja": {
+    "#": "##### global static #####",
+    "password_require_label": "パスワードを入力してください",
+    "password_placeholder": "パスワード",
+    "login_btn_label": "OK",
+    "#": "##### auth error #####",
+    "password_invalid": "<p>パスワードが正しくありません。</p> "
+  }
+}

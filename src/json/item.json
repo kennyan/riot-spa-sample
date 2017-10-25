@@ -1,0 +1,64 @@
+{
+
+  "name":"Sample Gallery",
+  "pages":[
+    {
+      "pageId" : "1",
+      "pageName" : "one"
+    },
+    {
+      "pageId" : "2",
+      "pageName" : "two"
+    },
+    {
+      "pageId" : "3",
+      "pageName" : "three"
+    },
+    {
+      "pageId" : "4",
+      "pageName" : "four"
+    },
+    {
+      "pageId" : "5",
+      "pageName" : "five"
+    }
+  ],
+  "contents": [
+		{
+      "allowShowPageIds":["1","2","3","4","5"],
+			"contentId" : "1",
+			"type" : "image",
+			"imageUrl" : "http://placehold.jp/50/fa7c96/fff/300x150.png?text=pink"
+		},
+    {
+      "allowShowPageIds":["1","2"],
+			"contentId" : "2",
+			"type" : "text",
+			"text" : "This is a sample text"
+		},
+    {
+      "allowShowPageIds":["1","5"],
+			"contentId" : "3",
+			"type" : "image",
+			"imageUrl" : "http://placehold.jp/50/1f27c2/f0e4e4/300x450.png?text=blue"
+		},
+    {
+      "allowShowPageIds":["1","2","3","4","5"],
+      "contentId" : "4",
+      "type" : "image",
+      "imageUrl" : "http://placehold.jp/50/171615/f0e4e4/400x700.png?text=black"
+    },
+    {
+      "allowShowPageIds":["1","4","5"],
+      "contentId" : "5",
+      "type" : "image",
+      "imageUrl" : "http://placehold.jp/50/e6420c/f0e4e4/400x150.png?text=red"
+    },
+    {
+      "allowShowPageIds":["1","2"],
+      "contentId" : "6",
+      "type" : "image",
+      "imageUrl" : "http://placehold.jp/50/16c41e/f0e4e4/400x200.png?text=green"
+    }
+	]
+}

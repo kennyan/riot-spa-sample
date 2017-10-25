@@ -1,0 +1,10 @@
+{
+  "zh-tw": {
+    "#": "##### global static #####",
+    "password_require_label": "請輸入密碼",
+    "password_placeholder": "密碼",
+    "login_btn_label": "OK",
+    "#": "##### auth error #####",
+    "password_invalid": "<p>密碼不正確。</p> "
+  }
+}

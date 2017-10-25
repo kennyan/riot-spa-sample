@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+
+/node_modules/
+/www/
+
+.DS_Store
+Thumbs.db
+npm-debug.log
+tags
