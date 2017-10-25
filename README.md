@@ -13,7 +13,10 @@ $ npm install
 $ gulp
 ```
 if gulp is not installed please do below
-npm install -g gulp
+
+```
+$ npm install -g gulp
+```
 
 ## Runserve
 
